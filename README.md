@@ -13,7 +13,7 @@
 
 <br />
 
-Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani, Rajasthan). I enjoy developing software solutions that have a great influence over mankind toward common problems. Growing computer science enthusiast having good background knowledge in development in Java & C++.Skilled in working with database management tools such as MySQL. Passionate problem solver. Good Analytic Skills ,Deep Logic Building & Problem Solving Skills, Great Understanding of Data Structures & Algorithms. A creative writer, emphatic listener and persuasive speaker. Love to read books and play badminton.Open-source enthusiast. Developing for some good cause :)
+Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani, Rajasthan). I enjoy developing software solutions that have a great influence over mankind toward common problems.Skilled in working with database management tools such as MySQL. Passionate problem solver. Good Analytic Skills ,Deep Logic Building & Problem Solving Skills, Great Understanding of Data Structures & Algorithms. A creative writer, emphatic listener and persuasive speaker. Love to read books and play badminton.Open-source enthusiast. Developing for some good cause :)
 
 
   <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500" height="320" />
