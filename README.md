@@ -13,7 +13,7 @@
 
 <br />
 
-Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani, Rajasthan). I enjoy developing software solutions that have a great influence over mankind toward common problems. Open-source enthusiast and developing for some good cause :)
+Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani, Rajasthan). I enjoy developing software solutions that have a great influence over mankind toward common problems. Open-source enthusiast. Developing for some good cause :)
 
 
   <img align="right" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1600x1200" width="500" height="320" />
