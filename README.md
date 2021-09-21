@@ -1,4 +1,4 @@
-### Hey there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="25px">
+### Hey there <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="25px">
 <a href="https://twitter.com/ChouhanManish08">
   <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
