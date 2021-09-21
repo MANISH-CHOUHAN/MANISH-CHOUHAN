@@ -6,7 +6,7 @@
   <img align="left" alt="Manish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC_pz1_N_XS5_Z81UbFtu9Xw">
-  <img align="left" alt="Manish's Youtube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" />
+  <img align="left" alt="Manish's Youtube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MANISH-CHOUHAN.MANISH-CHOUHAN)
