@@ -2,7 +2,7 @@
 <a href="https://twitter.com/ChouhanManish08">
   <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/manishchouhan08">
+<a href="https://www.linkedin.com/in/manishchouhan08/">
   <img align="left" alt="Manish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC_pz1_N_XS5_Z81UbFtu9Xw">
