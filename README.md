@@ -6,14 +6,14 @@
   <img align="left" alt="Manish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC_pz1_N_XS5_Z81UbFtu9Xw">
-  <img align="left" alt="Manish's Youtube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />
+  <img align="left" alt="Manish's Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MANISH-CHOUHAN.MANISH-CHOUHAN)
 
 <br />
 
-Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani,Rajasthan). I enjoy developing software solutions that have a huge influence on society toward common problems through  automation via web apps. Open source enthusiast and  learning more and more to contribute towards open source . Developing  for some good cause :)
+Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught freelance software engineer from India (Pilani, Rajasthan). I enjoy developing software solutions that have a great influence over mankind toward common problems. Open-source enthusiast and developing for some good cause :)
 
 
   <img align="right" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1600x1200" width="500" height="320" />
@@ -36,7 +36,7 @@ Hello, I'm Manish Chouhan, a web and RPA developer who's an avid self-taught fre
 
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea🥺👉👈
 
 <a href="hhttps://www.buymeacoffee.com/manishchouhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
