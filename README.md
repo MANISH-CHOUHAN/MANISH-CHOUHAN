@@ -1,6 +1,6 @@
 ### Hey there,
 <a href="https://twitter.com/ChouhanManish08">
-  <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
 <a href="https://www.linkedin.com/in/manishchouhan08/">
   <img align="left" alt="Manish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
