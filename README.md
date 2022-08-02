@@ -1,9 +1,9 @@
 ### Hey there,
 <a href="https://twitter.com/ChouhanManish08">
-  <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
+  <img align="left" alt="Manish Chouhan | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png" />
 </a>
 <a href="https://www.linkedin.com/in/manishchouhan08/">
-  <img align="left" alt="Manish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Manish's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC_pz1_N_XS5_Z81UbFtu9Xw">
   <img align="left" alt="Manish's Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
